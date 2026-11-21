@@ -34,9 +34,6 @@ This project investigates real-world Data Analyst job postings to answer:
 
 ---
 
-## 📊 Analysis
-
----
 
 ## 📚 What I Learned
 
